@@ -11,3 +11,4 @@ Currently, two official plugins are available:
  - Clone the main repository
  - Run npm install
  - then npm run dev
+ - Preview it here ([text](https://simple-ideal-website.vercel.app/))
